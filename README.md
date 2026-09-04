@@ -16,7 +16,7 @@ python greet.py Alice
 ## Running tests
 
 ```bash
-python -m unittest test_greet.py
+python -m unittest discover
 ```
 
 ## Contributing
